@@ -1,6 +1,6 @@
 [submodule "ps4-payload-sdk"]
 	path = ps4-payload-sdk
-	url = https://github.com/EchoStretch/ps4-payload-sdk.git
+	url = https://github.com/Keopos/Hena/ps4-payload-sdk.git
 [submodule "PPPwn"]
 	path = PPPwn
-	url = https://github.com/EchoStretch/PPPwn.git
+	url = https://github.com/Keopos/Hena/tree/main/ps4-hen-vtx/PPPwn.git
